@@ -1,0 +1,27 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "This is my first project with microverse, where i needed to create 3 files Html, css, and test.md the last file needed to be ignored, I have completed the project as per requirments. \r ## built with \r HTML\r CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakerAbuDrais/Hello-World.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shakerAbuDrais/Hello-World/issues"
+  },
+  "homepage": "https://github.com/shakerAbuDrais/Hello-World#readme",
+  "devDependencies": {
+    "hint": "^7.1.1",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
